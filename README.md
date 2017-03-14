@@ -3,6 +3,8 @@
 Completed
 ---
 - Karatsuba Multiplication
+
+
 Tests
 ---
     python -m tests.graph_test
