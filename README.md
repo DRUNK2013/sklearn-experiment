@@ -15,3 +15,4 @@ Tests
     python -m tests.singly_linked_list_test
     python -m tests.modular_exponentiation_test
     python -m tests.modular_multiplicative_inverse_test
+    python -m unittest discover -s project_directory -p "*_test.py"
